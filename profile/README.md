@@ -2,7 +2,7 @@
 
 ## MoleculeHub: Cheminformatics in Julia
 
-A collection of cheminformatics in Julia. 
+A collection of cheminformatics tools in Julia. 
 
 Currently includes: 
 
