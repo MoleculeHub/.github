@@ -1,6 +1,8 @@
 <img align="right" width="200" src="logo.png" />
 
 ## MoleculeHub: Cheminformatics in Julia
+![In Development](https://img.shields.io/badge/In%20Development-yes-green)
+![Maintained](https://img.shields.io/badge/Maintained-yes-green)
 
 A collection of cheminformatics tools in Julia. 
 
