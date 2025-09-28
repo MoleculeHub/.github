@@ -10,6 +10,7 @@ A collection of cheminformatics tools in Julia.
 | [MoleculeFlow.jl](https://github.com/MoleculeHub/MoleculeFlow.jl) | ❌ |
 | [MoleculeView.jl](https://github.com/MoleculeHub/MoleculeView.jl) | ❌ |
 | [MoleculeDatasets.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl) | ❌ |
+| [MoleculeScreen.jl](https://github.com/MoleculeHub/MoleculeScreen.jl) | ❌ |
 | [OpenBabel.jl](https://github.com/MoleculeHub/OpenBabel.jl) | ❌ |
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reneegil)
