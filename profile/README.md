@@ -5,7 +5,7 @@
 
 A collection of cheminformatics tools in Julia.
 
-| Library | Active Development |
+| Library | Active <br> Development |
 |---------|----------------|
 | [MoleculeFlow.jl](https://github.com/MoleculeHub/MoleculeFlow.jl) | ❌ |
 | [MoleculeView.jl](https://github.com/MoleculeHub/MoleculeView.jl) | ❌ |
