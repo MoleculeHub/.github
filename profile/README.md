@@ -4,8 +4,6 @@
 ![In Development](https://img.shields.io/badge/In%20Development-yes-green)
 ![Maintained](https://img.shields.io/badge/Maintained-yes-green)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reneegil)
-
 A collection of cheminformatics tools in Julia. 
 
 Currently includes: 
@@ -15,7 +13,9 @@ Currently includes:
 - [MoleculeDatasets.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl) - A utility library to easily access popular cheminformatics datasets
 - [OpenBabel.jl](https://github.com/MoleculeHub/OpenBabel.jl) - Julia bindings to [Open Babel](https://github.com/openbabel/openbabel) library
 
-External libraries/organizations of interest: 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reneegil)
+
+Other external libraries/organizations of interest: 
 - [JuliaMolSim](https://github.com/JuliaMolSim) - Molecular Simulation in Julia
 - [BioJulia](https://github.com/BioJulia) - Bioinformatics and Computational Biology in Julia
 - [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - Graph-based molecule modeling toolkit for cheminformatics
@@ -24,6 +24,5 @@ External libraries/organizations of interest:
 - [ChemfilesViewer.jl](https://github.com/alexriss/ChemfilesViewer.jl) - Julia library to visualize molecules and other chemical structures
 - [Cclib.jl](https://github.com/cclib/Cclib.jl) - Parsers and algorithms for computational chemistry logfiles
 - [Jchemo.jl](https://github.com/mlesnoff/Jchemo.jl) - Tools for chemometrics and machine learning on high-dimensional data
-
 
 
