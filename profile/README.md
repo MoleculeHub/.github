@@ -12,8 +12,6 @@
 | [MoleculeScreen.jl](https://github.com/MoleculeHub/MoleculeScreen.jl) | ❌ |
 | [OpenBabel.jl](https://github.com/MoleculeHub/OpenBabel.jl) | ❌ |
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reneegil)
-
 Other external libraries/organizations of interest: 
 - [JuliaMolSim](https://github.com/JuliaMolSim) - Molecular Simulation in Julia
 - [BioJulia](https://github.com/BioJulia) - Bioinformatics and Computational Biology in Julia
