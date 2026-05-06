@@ -10,6 +10,7 @@
 | [MoleculeView.jl](https://github.com/MoleculeHub/MoleculeView.jl) | ❌ |
 | [MoleculeDatasets.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl) | ❌ |
 | [MoleculeScreen.jl](https://github.com/MoleculeHub/MoleculeScreen.jl) | ❌ |
+| [MoleculeDock.jl](https://github.com/MoleculeHub/MoleculeDock.jl) | ❌ |
 | [OpenBabel.jl](https://github.com/MoleculeHub/OpenBabel.jl) | ❌ |
 
 Other external libraries/organizations of interest: 
